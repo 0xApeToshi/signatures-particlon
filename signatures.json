@@ -1,0 +1,1012 @@
+{
+    "0x129345d959ae69C45569A0aA2Bc792518704e2d9": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x81b678ed881f6ab13c6ba488d008cb11ecc3e9b130824d98f5142fb80a037c191673a03f8ef75a88882fab3f4b7aae12f79e2619ac44f86bd37b7c63faafeb2b1c"
+    },
+    "0x7ce0f997FB346c0E1C535BD3DE96560889849298": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x29688cdb24b2c42f1bc7b68e7a567ef38983ed375a91201ae09f735d4897e10e538ceb283a0d4bc05f4be865722689dd31f35ad2f3f139ac7dc359084b4b76a21b"
+    },
+    "0x1Fc550e98aD3021e32C47A84019F77a0792c60B7": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x596ebbc6c5a175c4bde8883b4ba7e1e0b5a8900c765408814f054ceabd848f586761db9d291fdf82fffdefa11f012ad06284800d0f25b448c01a1081c26c9d8f1c"
+    },
+    "0x498F119215f978B66886A4f905658E515F3724d5": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xf0fe46fff995efd89d4a9ea96de3b095a31b577f6516426c5b0bfafe1461070c4469ae048410cfa2ea5bbff679964f31c1485999a2f36e0f27f6b2e3c52168cb1c"
+    },
+    "0x939109619f6b6b3744EdD30Ad31695355E50f408": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x83a66afd3cc26b78167a942d808f8de704f179726a5cb40af6dad56d9c6e6ebf6533802891df80e9de773671ae55d6092e88cec25d100f16e90028c65a13d2561b"
+    },
+    "0xDff71A881a17737b6942FE1542F4b88128eA57D8": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x7546c5ee52252aac9347d19cfd71484426016a8c7b33366f1d7b810801bc7fe3776822f6f3ca257e0174e601f048678d1e62ce2f225ed98f4a940110d76b5f641c"
+    },
+    "0xA2B584e5f442f73038320F9e95A490b86ec27D62": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x66ebab3406ae1c00b8ff8bc9927a0ca8f96099a06028bbf9dabe04666f4136c177f8b9ae8f1c5514386b9f625ff8ca088646007b2166b5208a385b279e17c8591b"
+    },
+    "0xc31C43B169B08f2f3f940373Bf57b9b1A71c477D": {
+        "amountAllowed": 5,
+        "nonce": 691,
+        "signature": "0xd55bb10e2673d2d6dde150ae614803db94965187166e8b1417d84c383c850eff54a664ac213b5e6e44c5395be2e03afb39a857b66c3ef33fad4794fa79872cf71c"
+    },
+    "0xeD19EaeA3bdE70e0C9652485406fE961a85F4287": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x6c56866dbc8abb944d5965dd360a0e4cc8406558430d946734e53407954f50792eb18d8aa78568444a768ab1e7de410e65ce13013382a67631232c5efd6073e21c"
+    },
+    "0x98571cb4562672ec251A784cf9daB82c68A366Fb": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x3bdbf0f4151b5674bc8b23fb8a7ce8d8d1c1963ee51cd312052ddfa70c2f69ca228555e8069f1eb38fdd44f0032770b1044adb9d96d2abe27ab208b5ce40c3e01c"
+    },
+    "0x001292F42F0eC85636f652F618fEFD94bcC3ac6E": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xbf98638a47750255f3ecff11d42e3598af62098506e06d48ca1048781fb052b13d6db4b8c57ce1a39d475f947cae06107735b27e456478001097f707b0a151181b"
+    },
+    "0x236884bb674067C96fcBCc5dff728141E05BE99d": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x114a8e0b582c659d8ae3b416e7f24e5e6d2f54002c6fdd1b37723cc097f3acbf5e16ec1ea5cb190c393724684efaf470d7e4cd648a39c44995a9780108e904b11b"
+    },
+    "0xe38413308e48fFF7b634EF3510Bc304b8575c13D": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x2192c270d2216517514356c6d0b5395524da014b8df8c46de1bea498372175f749e0e8e09444d3a7d9daf25482c2cca944d26683236e3f4dea9dc6f2b2c4e0531b"
+    },
+    "0xD4a57867fEEdA9fB8b645f1cE14457b0BbE98BD1": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x656bccf88089e03458551ea065e95cdc8031342ae807a7b0748ce239d9f252f94ed2b47e37e67ab3098422a6db40bd679c619065a0b07285806c8308293a28da1b"
+    },
+    "0xF5d2cDA7B4825720ad11560218C6CEa72239e678": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xb5cc9523a434f1cc3c9da58b574df5a3868344d417a51a31fb75dfce09cdc38334dcfb2578085c7d3467fefa9536a223cdf927a81fbe9247c1ec8e312c5548681c"
+    },
+    "0xd306d188bdC801a401A4dc77A5a93D07d95Ba5f1": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x3e1257708db57101d25723cc74c7740eb26e116c10a3684139546934b4a99a4d26c023d14a06aadb8179057379be07f154992082cbf80ea26dbc21742e019a811c"
+    },
+    "0x8365b10f8Cd2f27cc6bAff996e9F820767f81b05": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x2b1a9d8bd672fa16d52654f0d605ff4caa49a9a9c3f63d01b7ae64725bd9ab614ef49d6e595142e3f49b4cc49a8ee3e4aae4543847da3ab87601d1ec903359fe1c"
+    },
+    "0xF90085BC3FF317366Cf983b5edA192e9F17FD276": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xb2fa6713d6c0c771a5dde654b391c2c017d9ad2c54913a0d2281709043f280bd55544e008fd00c6c8241860e03d290857506cbeea13d5d282065d7dbb6125d041b"
+    },
+    "0x46C8577b5E7A6D522605056AcD0ec6A620cb3C8b": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x27c346bd63cb42c172fbd781aba74c61b215cda6069d063abc4ee2c84f89a8df16704321603827243720b28467603da2f26eed20f7ede4543c9909e0ff524b811c"
+    },
+    "0x7977ED774974D63f8224493a2B0d8B0DbA88e175": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x905f53f22b7c3ad617c01514d60b44730142c9b3b82991dcef28b5b7c33f95526e9c4b45b122925c9583bd8ff55af30aad8e15bcee1d6d0091db8546465cd7531c"
+    },
+    "0xfc69b4baafA509F3a5Ec54d2B28BA3F947ccAb9a": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x5e97a244fd89a585ca57808d6e5c594e099e4f870659bf39da5ae377916e77e518504d8ae174c47c641f414474c8ac4baea3e441f2aefefead08ae921f40eb841b"
+    },
+    "0xD6286c2f9e332cBEbf89f8903BDC1143E7EB9F0e": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x106e9e9c158675ed58b592776e70a5167223eab8926becd1aa35a2f3d8e2fe5b2ea17e634094a2f2affa05057126e37ea5f2320bc2f183d9d82da3ec00c467121c"
+    },
+    "0x147B1ba85C60d53334f9c2c6Ab65638F17704457": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x3e1b79e05f5795b9e54cef0f0af7d900a5ffe61bcc1ca2279cb46e36a9c3bdb5060c892a2e15f2fbcd518b91f4e537e61cd89795f7621eb1f8be6ed96b9b504f1c"
+    },
+    "0x9b01A6293353CB4Ff6e0C257fBc24C61CB678D6E": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xb6c992df3d91d39961754d63867fda7697b2d2d19217b60d110a947ac1a2f2a22f3857646895fbac0e9704a416ff3efb62332adbd6725adec0ad1cbfdbc7efc51c"
+    },
+    "0x5473580406D12E1cBD4c00B77e158FfF0CE9424e": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x493075be9f1614121f5b1965f31fd5bd7b9c43d1099b3d1dc5f84ff49a24621f69ec0399755fe3c3dde35723b718f9bfd24a9a541a6f9b2acc99618b3bb48fc31c"
+    },
+    "0x4Ee946cFFc2E8cC5f6EAf17D71dA8df39c8ca047": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x29ab9a008a6e46a05824c0c7eb3f38f685baeafafeade14053dbbfb590dbd5a66b9e3f0813fdc34b0ad581971c7a93a433f5aa111bb213f6e66aee27a21bd9f11b"
+    },
+    "0x5dEb58731024eF186239E0E4d1b8310a220F4F60": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x23db5ad9f7170d6d4b56573194098c592bfb3c0b9f59394ac73a6fa55a8aa598027ff367650a67a38e79ce89ae1085dba4f1e7a29c1fbe6cc06a5cfe9804544d1b"
+    },
+    "0xBE5DCA554e58CE63C716a76BC1E34273d21Aff82": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x4c1b190a6d180f9997dfc7b4c2da1075d0200d5fe121cb8766e8bd1a0707cd345068a86c99efecaf5e24b4c1681e3c3d71ec76e97178cb6fd4809a469f8fed1b1b"
+    },
+    "0xcc13187AfEf880894a8832b854eFE9816449BC59": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x60c809c0373fce195e9ebf703cd5accc15d84a81affac144ebfb180341ae24fc2419cfc8f755ae808df71b9f2daf6d093ac8c3362acca94e38ce8a92f6d5706b1c"
+    },
+    "0x0A2809076b654D6951E41b03568F16717a50Af4A": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xdd42afa5f7ab91c2cbd504f15beeaa8a29fc92bc4871bf158b07deb9101ac3906d123533c551650bf3eedb08d2a2c65cadf089805e64cb632bef86445553653c1b"
+    },
+    "0x60CED65A51922C9560d72631F658Db0df85BFf1f": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xc4db9993ecba8d9a9b5c72864adc484b4c906ed4ec2d12285d07213d744ea45f1ec8cef89be003ecb90db5c6d05044e2087c76981f1202d8a168b3ea9bc486631c"
+    },
+    "0xC982301321b1e958F2B1783d46FB919956507B64": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xdfe5a74cd615d374fb00b3cd7d416638f6cd4be9341b9e1f2407e5c4a9b7c3213a902f6ccf3eb2e53ebbafc2922d38b85b34c2a99384c9098ebd386f95b57ad21c"
+    },
+    "0xa15499E085B440b04d790cbE24e03597E3717F3A": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x7366e014638e191f8e4d7ba4b03a8c19344af64f5551cb370d93aa17afd0671c076fe6520f843ec55f29ad3d37c1f0c1587d8cd87896e5b0e4c52c87ca8895761b"
+    },
+    "0x475566F2B32F98A8fb8dDFaF184Dc522d0701f72": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xf7cbf9281782958a0b085b33ae8e00482be3fa30fa56019de32fce497ab5b9516014439c0352bd4883e07c9047d9bc1306a22436a56feb8a854e7480c4c3010d1b"
+    },
+    "0xffb6Da901aA12aaB857075bE6984c63152De67fa": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xba7969f63e68ffad744aa61444c6d7b6666dd33a543988b7ccabe04188787339705d539aebaa5686aec763e7325a1080433b5c5db7f12dcc85b5f8c9054d0f751c"
+    },
+    "0x7686ca80AEC40CdF122e334a053c45f94135f2bc": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xbe2ca648b66b9e161ca953f921d9b0f3baa6076cbee961d726b35987382422b42ba3edd14311a199e6e6dd8d94e5112c1b93b9d12df5c5195cc0fceff28434021c"
+    },
+    "0x11f8dE60bE7677C4306066B37F74e4158Ab586f5": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xa04cc2e97a7c41ab24a847204cd4f55f34d7c7a6f948a991a2dcafa9560117db17d77d5838f36f0dd648c1171c2c69a5862ecec4e7596269fa30bb0680fc2ba61b"
+    },
+    "0x13D105BF699086D4631d7a69Bc15e445dB74B5A6": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xe18c093fe41df937da6689d63565c972684bbd4459a654943dff8748f996a60372e888efa1b7f0278f666b5cba9087e2f2bed00e5e23a182eae29c0a1a68e5111c"
+    },
+    "0xfD983cD4C85fFbF4440B252af8a498567e56aBC3": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xd6b5b9fc5331193e6d4b12c952daa6957da3e225dea28b1cda4871a410c0d41f24b3f21b7f99f2b40d6e82fc90543a29548fba63008a2542f10a04d8a2d3c5221b"
+    },
+    "0x163b6BcD1049Ea782aecaf1efC3aBa3d53555545": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x4e211a01e3a75f2e3c129250415dc5a789e852af9b476104b5746b1269039fe2713fc6dac003b9c37ec1a817c00c81451f2ff7d1ea22363ebac6932b43302b571b"
+    },
+    "0x1A441841D6705237C14d872DaDB83C4b0e204e3C": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x3fa403cbb960b30f77c44d779d194a5d353149fc03efea42b257399b35335d340043d4fadf07f37d7c00681e841183fb981ebf756d8fdc08345acd298e2dbb321c"
+    },
+    "0x757F39E648D718dD4F93c665C83c7BE582BAaD04": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x21d81a289c523a382774bf420624a8773998a523993db7fa126b514b398a07c613a6bebdc8240e9db6e6a7bd2a2a1785f0a60ccab1ebe0d31badd90e586749c81b"
+    },
+    "0x6F49B6cae118Fbd9277102cc25Cc17A5eF403094": {
+        "amountAllowed": 4,
+        "nonce": 691,
+        "signature": "0x34d9265ea6c3f00cc8745d8a1f179690b3238fbf97071170c9482c214c16965c1c1a436242f2a9ee474546d23becf71651e6f2730317a3c3eabe3e8ca13b3b511c"
+    },
+    "0xE70101Ac5D6dB9F867Eb53Bb80220b85AF488C4f": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x27980471e3cb338829951d53472bfb85acf6a43aaf5d79346813da492dbff9e3055435313521ea176c6e441389c76d113af614c7a5f0263b055bbdc7467a8a331c"
+    },
+    "0xb791D05FB0d68cc94747F9fD8D05e5E76bad69a3": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x1636ecfdb43de5f3ad74dac68ddad27c749f9116de0d93a095c19a2e2da1be8e6b46a3985994ba754a9494c076fc2a5b10f6469748b534b88524f9f74a0227a91b"
+    },
+    "0xfce0413BAD4E59f55946669E678EccFe87777777": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x0c123a13eccbb4d3fe3323f55d7a4875ad9f855ca18b44a6f0f02a84d81874b93c0270bd7762d874f7e0a747aa50131ba11204d544322efcb6ef31d353c98e1c1c"
+    },
+    "0xb3f0cC280D6771Ad1888cA6518Ef6551556c7e72": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xd201d89585b39a645719966d325b20447cd22591ee3f965920d21973f69a793d7e3acb504bd9c72031973ba6c87677951c10cb5c79ab6b7f05cb9ada894c32611b"
+    },
+    "0xA94b40c53432f0576E64873CE1CEAd1aae62Fc90": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x2f270e17606712940947c6e3bb8ffb533a02e20f75d69e4e7dfc22e57b533d0d708a3e1153c1e072580663fc2aaf916be230a989daa98bc1a02b3c9c4b71aaca1c"
+    },
+    "0x6bCE0ABd3014cbAD695Ac04E263e73EF116c0B0E": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x720d70202d080e5d7158474dfaf41045febe390a7ab660ea209c94dc0af2fc5451eeac7ec1aa6a57b733619330c44bc647923b02fe3a1dee04566fdc5762fbd31b"
+    },
+    "0x15FC6728ec8D16b66e7151A4DF7261b331ff8B7f": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x04ac4b6501d31a05a4b92e624705898e042448f35b366f538766e6f1eb3f18bb524c3184fa2f3f2bb635baf7a075a078283d1213e72853a3722a02c5809acf4e1c"
+    },
+    "0x2fC67E8F5cE01B2AD69959faC629eE46Ed873cd3": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xe76894e373efbd89a9b47078f76296b968066e88339f785be9f829acf827cc670ee34108aa1b90b2f255f60642f572b0a4a30ff125ba5bc15f44b9c7859b38801b"
+    },
+    "0xFd61F8599431ebff62DC81eFc571C1FBCb908DCF": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x96b8340f5ef510e2be0881838d291479351ac33bddc5130a418fde32593cfcc34cbdcc7bcb06d90d59fe162444382b9ef2a3fc0c69bcf08c3c983b173bff5e3b1b"
+    },
+    "0x49ca963Ef75BCEBa8E4A5F4cEAB5Fd326beF6123": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x284b4773cdff630b076ee0062bca64595a0ddb1a4f2df75ba1596323f361aa1f525e02038e3663c5ab499cb15e09b629d02d0d382ef1f9fdbf85657cdb48658b1c"
+    },
+    "0x2d3162890E0a81bB0F4A1F65E8878D20853f6216": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x5c6787e67124dc8a917d04f58fabbaf1fdb688152f160e0e1fe1f2015261f35d1c4a1137259879ba0046e2bb575991a1bd7aa8d09531dfb261fe8e61b4c796111c"
+    },
+    "0x0A264e1ee0e75B428688CB615E32f31E836baeE0": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xa99fe92ccec965080ebeba4e3069788ea0f694bb2c802b7df32f94319b032f5b4f46478f7963aabd1fd375cafd47f872af305ec6f818f4da9750e8ca225231221c"
+    },
+    "0xb99426903d812A09b8DE7DF6708c70F97D3dD0aE": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x79785b7f18f4cbe954292818f926d24c80cbf89c8be6be64c1f463549e9bfaa9602313a6689eb7284ef0cd4cfade51b057dd2fb5337935d55fff0d7adc9d80e91c"
+    },
+    "0x68856c1Fb2525E65bFB3F945E2041E24ea373C21": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xee3c4d26d5d407a577ad70b2374fdc1988767cccbf8864d99131f8255c8a69c5338ce795a06dfb47d8534d795165a464987ee9532ad93afb89b575564c6054411c"
+    },
+    "0xA8e54b46ae93E14eedaE486a9EFCD4c7B5a5be20": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x473e5a3b8f82d7e8a845aca31cc83d2fddacc73e8f14acb6d9abf00ed6b0b8614fecddb0098b037984d49047ef6f59d63e83ee3bd72e7a342624acf57f4d25001b"
+    },
+    "0x1EF8A0024942433871BA035BF14E4015e7583a77": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xa1f2f027f98e44305d9e13999467eb8b255f4a4f928b08fbc9efe99a253f5cd42cb3024ede0d92e30242790fb71adb5b97c083c1587851f81feb4e8ef1b632491c"
+    },
+    "0xDa81a57188006FeAC8711B046b28A79Ea202E999": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xb5186ca3934f2a7a6035a2b6988ad6b302d8a9d6b3ca3dac098da0d160b82486428e129a750245410f7e6dc9518400fe2fee1261da38673381e9a98cbacf14f21b"
+    },
+    "0xC1CCF7456fd640473c383468df2c18a2e3D68EA5": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x43db39a74666a1e5369783a72c5dcb08258e81588189c5ce6e2529cf8051c58e55f64affd03467bf3aabcdabf3d053dcbdf622eb1e4ea9f30173781a227c49401c"
+    },
+    "0xA494876207Ae80D8669Dd347Fe11Fadae31c48E7": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xe367c7d1f0c157ab9e9a243ba7b68b8db5d298a0d70a5cec6b3705cbdde260f077614bd1254078753d972f8508904d563a1e9ba1b7380e0b09eee5619b580c001b"
+    },
+    "0xFc0574F4f02159B904CDAE9ED91Cae0118036a87": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x9eef57292eb1fa9060c960771c2b83d8d4bdcde3dad603cf50d92934c8b634c41a7e37ae9eadcdec40bfb6d65f131ae800ac626e892e77ba4333c70f70e8606e1c"
+    },
+    "0x4dd4d807988B61462bfd03ae74Bf610CaAA27C17": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x2e33ac7636b17a90f4c93930055bfc1c4da138f74b7faea43044c458602a3e9b625f7dca8e136647bfa4fd809020fd91656a1116472b5a8294e8183d6cdac6211c"
+    },
+    "0x559dCcEC80c6B9317135B1202dd3737545304771": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xf3976931c53c4629cab60b9468f46769f95fcc59efcd4e3d07aff72eb2e9a5b37bf67c25a2abd1043bee0e72e881cff985dd4e7eaf2e8a2c518ef121b38028981c"
+    },
+    "0x3D5f1ad033C4E7C6A6d433d50d694c488dcAebCF": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xf2d25bb743d888be74fce16b2a93a439ce1aa25022ff57419f7545a67dcc875544daee58ef383338be87d5c1c819c6c5d8927a8bd421790664941a06f2d0e7141b"
+    },
+    "0xDE3aF3Fb1C3d2e4c3eA9cCF23619aCEf6b6D42D0": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x2c1d44b2f4f13a46421dede2a948bc8a587052c43a1da41397157e65b3fe7d945a636b74528ac693de0d158c54de948491f0a8f36e9a49ce2bde26e03f50fc781b"
+    },
+    "0x7d2218Be2EF590FBE4bC3B1F3Eee26527c4DA7A2": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x66aeb66398344c9179490684b1d92e48bd8d28069e18428f1a7d9b2cd62eb635054a6cdef3c4ae37a415f6c949092ed37834182a1699ea153e574623599a66101c"
+    },
+    "0x6c66F4cA90c023bc04461ef19e67B06bfC3d0a53": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x54a7398b615cde3261eb6f74adceee0a36cdb2d44461cd1a00c42f9bf7fdffc8699ad5bbc7f810f47112b964e7c1b414c253c305098c2b09e2a877d6e6f0bef81c"
+    },
+    "0xf717b4AC56E6fbb62a1e09E9FEfF5cB7a801AedA": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x5a08fff374054414d83a70384f9ad13266933dbc29ae7be14e377f34abf8ca477c68ce064d86aba99b452b8625d00d8aab1928ac08aea5bbc40d38c6961aed311c"
+    },
+    "0xc459f061F58743678A4481501c766BFaA9A823b9": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x2820eff004531fa859f660006161146b8ce957fc92d517d09a6d5cfc0a2ad4bc7b2e1f5646379090d1864e97e3470193dd21c6ac752d2487c352c573b2ace2fa1c"
+    },
+    "0xa440B41742415f20CF3a92e083F78C2dbc3746A3": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xef2fff0cb96f183d7827cd07495cde0a7db2fed4535b79772f0ecf0ae1aa853a493c338a7b9df92c44052f5c1de2fdc2beb19fdb9c67d19fcc7c5b6de84a3d061c"
+    },
+    "0xedb6c1cDadAF3bEfCca9814733F036D46105Fbf2": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xfc5503413a70381d04cd10b7e98fe96b8340c19fc7fc45bf6971235949584aee19bd1fd06314cfad6b2465534660eb2ea6f182168e22fa628fc67b87d7fa28fb1b"
+    },
+    "0x3F3E5066D6d61946530a395b25DffDCf37eC026A": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x434fed013740bbb564574199783d04e28c65c1e7ede0d039bc6708069844befe0283dac62049fc8d682662929d9e5d0757472ac5a1ee4bb6a60840f7b775b85d1b"
+    },
+    "0xcf9d465CE7aA05E189cb0901F686D9dEF8324dd6": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xb15c73de9c02c9d0e6a023a8bd1f6e46a742e7348af2a314e726138260c9a1c56e174afdfb1494f67ba8fd5760abff931e8d5ab15502c1de2409a58ac49957651c"
+    },
+    "0x77fbaf85F2251af24f49Aa73788Ce0D60cb11153": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xf4c6b0fdf575c18e79b15d7387d10c5bd1242a887e5f19d51c0c37b36ca75b852279576a6faf6c5e0f172f8ad1a162e67140963cf71902022a1c6baccacbc51b1b"
+    },
+    "0xf31B40DbcBa528f2cD6Ea9D65058BE320175D259": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xf1704d5aea647c10e2b80d9f7cacb844525a6926a195b49b3f19530816b6df3d52029733384aab8fbe63414e73eac519124c0acf059f060b1cf1a9416992aedd1c"
+    },
+    "0x782EA26D8DD734698Fd877E67389Fa57fE1D3744": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xa659cb2b931dfe2ba68cdbd9c3d793c095ce4575d32ff3a6e2ec13d75826ff1d56b7bbe56a50cbe2a8e8ffe838cb1533ddeedb50b67715adf6c9c7df599aa3521b"
+    },
+    "0x24fd6326C4e0C64E4b19D939580164132b474E70": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xb0263bbd0056165746a70c6446295b0c043fe3f51d969f160d4a96790e46d66c7e4e8c7a90dad7c8e22830cd0de1bbb470c4eb4bf09d9120a3dd327de33c9a651b"
+    },
+    "0x406Bbd4B112e77D7091E36c23B92ccA918b5419A": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x49b888999b517ab20396cdc35aa29add429f604e867c8ddc011993ca918676b74dfcda91550866910dc223784880ed79a47e8636f95d1d8596e1e93f72b37d8f1c"
+    },
+    "0x0fa1C11206e86d9317e69bE4B094b7571166993c": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x4515939b1cc7450589bf074eaf49e1a8c005fedba02004d0e756afd51c8ebdf9703d4a390b0ff426cf8b087c45fe15ae9adcf125c5daf86518a6f78bcd4aa3a11c"
+    },
+    "0x731Ed355833856dC1a004354EF06E6157B657264": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xf0d3daa10e8b4323c9b4a12b53bf049bc13676e259b51baa7a2ddc6fd785a6a82b5bc4776ab8b1ba74e1fd42423f995ba6a6f5639796069954bc84f671c599bc1c"
+    },
+    "0x029E0619b5ba062334eb8CE96EE48257eDfa7F89": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x7fd25fdea15511f00fef425b67ee49292c2f864ffff035f6345ea8d62cbfafbc366f4616fdb25e2047dcb55a9e6c5c2eab1c0a3806f1b4eb4c9a1bb20615c0031c"
+    },
+    "0x31275216B146F6573Fea7ca93F0e664273241512": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x74926a9089e027df4f847eb85faa54b9c6d2ab03201483ab82d5c38c225db3c609d050e446aa5da7314657660d93f88f5a1d0aa41542691d4220de822b373ab21b"
+    },
+    "0x7894c47148642C4396D9CE2929d8603Fb48Ad22A": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xef9fc3be9b8578e1b24b8efb7a4eb5720ef2acfabc6ba30b03755ca23522d3965e1310ca41258f6c0b16dfcb1e5eebd0b6d2c109c9a5acdb6de8683b619ca0da1c"
+    },
+    "0x85c0c09570C955F6e07522E9ad6041716CbBb7fE": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x85b4b69695b1d541b531c790cd7a47652cfc76660f644c04c57804cced97d782013e688ca3e9bfcee0fcc05f6cb21c1ae90722b437bf81f4771b2139ee006e881c"
+    },
+    "0xBD2d4820eBA5FEC3A9656268700c6A570e931C8C": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x3218411656e78104e885fe4c0aa54597bdaa7e010458f03e402d80b8aa91fb0d70bc035007737d84a219ca9ddbdb3fad00a207a5be56c4b29e905509d6aaa0761b"
+    },
+    "0xE38Fa0183f16fbDcE648EA0d9CFa2aeC5C942319": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x42dab4d0fff2f6cb57d51b91f7ad7bb8eefcfcd3b9e50947c0f16808871a49af74992a83953d2c5bd807f61cb4fbc4e6e2bbe4ea51d0464ad7b82c192f4363cb1c"
+    },
+    "0xC1f85dA4E0e5690df8d3076844101a36D1280867": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xb87944d801e9a0ffee29ca1071489dcdace055f693403851da2524060ae9e9a138222b648643ca5872a4eb44cb84df4f9dd605686d479a572670ac94e951e1811c"
+    },
+    "0x2e3E46a2bc5c120B7da88A43aDcC0dB77db7eeF2": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xba862407a9e9bcc6963d83a2cc3996ff7c9efea2f012f501d3233239251195a02a9158b8f110862bf27c03596d2bd536b146d1869cea096e255eb3be906fd8a71b"
+    },
+    "0xdff56C02a0671B293Dc98f6810B81136172F933c": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x22bbe11e983882260a37cc03f0408e2d31a18b48d5588cab63b064dacdbae97a53b4c35d4246debe79931233926af6423485c1efd95c17fbc7e9d0023b4f07261c"
+    },
+    "0x0E47DD69faD380112200c29196cfc7050E28Dc39": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x1dc55468b30fc7ae283e75a45831b2c2e004fe347e2836cd0750f1d7ec8cfeb078eb32e97548a910185e4235c0d7b38f80fc5eb9cfc300b02ee060d814385e171c"
+    },
+    "0x4C67D20778F55b8f7078a6C59CB69D6e610DADb8": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x0610fa92a114f4e489734faf4d853a20245dd1ffd4e7d06d6c84b4858214677b422342d6f5d708bd2d965a5526000758281b0461061dfe96ce7547b2cb5448571c"
+    },
+    "0x585B17d9a0bD28317Cf47D2eb43B11eAa6034398": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x9ac3e5a528247d2e7d9be7aaf387e7c059aaa30943fb6b0860ba0e6847aaea255f3db69f7cf18359d81056868e8523ac79185f907dca786deae455edf3a5c45b1c"
+    },
+    "0xb3B23996164ED44F2D94d501a7FbC8c95f8c0DAA": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x1940adb20b9ac468cbf6ff255f78eee37e5f344d9ae30ff00ed1eec5689f0877421574669a6274664171bc238b99eda2ec7e2a0018643d208c0ca2ec92788ae01b"
+    },
+    "0xb5c6763D4E737d403897B85cB87d4C077411EB16": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x04b4e1458be54cf55b4b2f6b1a9d998658da5483c5db6d4ec20fbcdbc796b0225bae13bb1e442b2b6a43a36ac8d4eef1d9da8adaaf00321534e93b0607d220e11b"
+    },
+    "0x5576D0456566FBdCab4E11f00332e7817d7589fD": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x677a7e5d354a22d488776328126f1c7f69595c9dee348c0f6994390b304983e666d9d681edc7ae4950ace5172a4a0f16e077c4611fb00a1cb25586789c6adb0a1b"
+    },
+    "0x55b3092D1110640A9e2D8823E3aE16Da72237155": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x27cffe2af3c24eeaca03300100df6df09db33ef5a1b40c7b52eea8f7aa57d24f50e57b078a96024882b862222d00d3b650a4d2a3aed91df862be9283572a6eb81b"
+    },
+    "0x078dFC510704b79b61e4e5A288572468D822159D": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x20327b49eca0fb51f3298d2ac47e3f9a7ad2a051a5aecc9d2c0c2d92945c53393b058a8b43449a75a52830ade2d693c3a7835b27dcea2c70bb9aac0520e75e411c"
+    },
+    "0x5158fde9C14440293Ac6e1e33b5e4Ec77BEc7EA2": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xd413b2c820752497f6610559c93d6f4070bc45ad749f30ad7889cfea42c1caff36f8d1b26da0df0a3adfa83cb4bc5bd117e3c9ef40d37a3fb9f025c02f243d281c"
+    },
+    "0x770Ede7DcF172af5511345d6378850190DC62fCE": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x6ce5d63706f029abe78b4307978b80fbdceb5fa2798fc1113409af87873780e5711497c1371725089cf4a3241afe4b618dce03c0c4c9fe65ac10d731906b89a51b"
+    },
+    "0xBAB7732cd01efB2CCc6ac274B8e4d951eB9d5171": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xcc07388a83954eb4b95f7552c96e7f0d841427b60f8a3080e9cc791fcd4d0f0e4432aed8e460b42422dc43e2f3ce158a39efe3fdbcfb3408d695a313b310d2531c"
+    },
+    "0x32d9bDffe9Ca0487C1154caBf7c97C73B3313396": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x81424ddfd03350cb333543b072d38425972bfdceee3f79e262a6a60bd80c3211579c40d5a79cf71e15cb0389ba4afa4d4e15385182eb34bf246ff44bf0cec6781c"
+    },
+    "0xba4fB537EA10aCCc9b2AF409a54E32AC3413C9b7": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x9580e80d4a61fd7ba781c9c66e7f52f5173b126784ca7c5cae15a55697098f44404d669b1f2be47e6ad2d57fbe7019c9c89cc4332a771dcf7bc758158b9814351b"
+    },
+    "0x94316111B11e027dBaC5421b5F016e6E7006fe9c": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x4c2d8e08fa00468406090039800d12b939d9d019aec5b96ed1f79a05ea26767b17e92cbc698130ab6173a83e196085103d2c3ae58935d8c8079d0f86cb9464071b"
+    },
+    "0x5A3D0a805382C45bbC0200eD9ac2365751b33012": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xb20abe0583622b20025998cced6a6cb54b62f975cf73aaabbf91a54cc5b6d68655fb0dd764c6ebd35c8849ffa94c5a21bb8dcb04e9e26e1f6cfe5a1fdf8134a21b"
+    },
+    "0xd9C6c5d2D625F6370cE0dA78Da7847D3F436fB03": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x9f6edbc514b9f63e1cafc9d816bb8a8bda074cf2c02007fe9660488f616cc7890e66b9a8c9e566488c401d1a9086b0c8b51d256f7dd8887ab9cade45daa3dc421c"
+    },
+    "0xB6940b05101CF385053c7DfE626E23c1F8e6e2A2": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x81bbf9118580d2c1910432ad0975dc6eee9f3024b8de379fbff46ad3dac220cd0b0c2dd23dcb9662260cef1632497fa27ac2def11d5f4509470b7dfc45cdcec31b"
+    },
+    "0x96e284A2eB35D902231380e27CE30f11C44950ED": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x61f0634fe806c1b23dfd367eb5cc8032edcc88997130759d37be78b2a940e7165fb08f6e6414e5349cadc2f681752d24f50bca17ff83b9e91dfb9e92b5ddc8671b"
+    },
+    "0xDa0240aFD3B6164AeBb142659B9D644DcD819D72": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x7c7f22374e7dc38e0e30e9a41545d5ff8dbb00727a61e5849f5f5e3ac923da6d0cfaf3059d8d61a191b16927e5aa6ce7ebd4919d41c8ac1ef6749532416c1d781c"
+    },
+    "0x9E3D411c41A583FDc1e1A4098bE94c0A91029238": {
+        "amountAllowed": 3,
+        "nonce": 691,
+        "signature": "0x563749d1cd72f99feef080a6ef6fef2f2a6b1c9c9087ae61357dff7b147ba9a673a5d150166aeff25b48be7cb1f885da1d7b5f591a4ae1dc89705e6f7f2aad841c"
+    },
+    "0x011425945cb680cD26fF9f35059248f0198B585c": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xbb3eedf8efdcf078d6e54d914bbf6a9bb90ebb6369b8c78609c6c04d9f39f2405ac08e0b3f76b8f27614b9188b6b38ca79afb5a3f52970de4d0e51f042a5eeb41c"
+    },
+    "0x161A9291E54197263FA5A932D09a66ec81fA5f00": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x167cd171c479cac6ae67deef115800d6327dff91b24e1d447e965e41a03e1af8464291b8734b197e209656aa6360e053bbe03b3e9704dc5efc8447b97d1019ce1c"
+    },
+    "0xa79D49519A6576223856677aA622fD4F31966FA8": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x13fa8d8c366f24273259a4f8a481b8a8e2fc6ab7693c87c0855efbc356b883202d5c110601e2d089054f609431d4685814783b01443649eb5a2c1b4658ffa4c81c"
+    },
+    "0x48be2B463868B712a0c9CdbE8cD351D9268862a4": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xb5b71f499b79051d9ec84410533b66308e6f024a8dfff0ff9fcb0e87448b063f0584ae9a1ed4698357c4a29b018a1c449629fd533ca200ff3a821868a7d02d1e1c"
+    },
+    "0x8fEfE5c0BBA32e6836Daa0e2a4C3c47836b97De3": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xf8fb4571179b1bd503a55fec578f394e131246e7487ab8c0e3eaf8cdb2b0ab356b93aac2543a93b55c8c11c9db74d608bc739ab6fd671e20b3210ceb85ac61fb1c"
+    },
+    "0xa6B86585c9311Fc0C4116780D2441eeCd8439F5e": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xe0b15f491565293421d6a61250764de1e4279c1f84d7a7e5e91a80aeed8503f63f0f270fb84e453efa4adc0857e956341c4218ef42b6644346f417bdfee46ffd1c"
+    },
+    "0xAB52B02df4725498e0d1CAE697e8CAa1CBaBf866": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xac6f4397861fb6e13fe5e1da981f922e365e95f701d632ec8d12a297b05d367e311806e7bddd53fcdc3f5b8e6a859ec7239302b66e2bdd7c518e037933be6cac1b"
+    },
+    "0xc8b0D32bc09Fb11C12C82582825C1e6b624822b8": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xd2ce70b11bf84693ea202fba53b850d2cb9dff9d6ea3b9d2f87ef819f9f997285096698e928989863ca71df12c7c67bd846873f9bc16d4f80c4389dc2dc96e501c"
+    },
+    "0x5df97d46a1eab2539a8c99513C21c07688d8433c": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xad37686a1f7699aefcb4d2560101f012f81896b2520cc7b96eb17e06bb7e5dae1b18f16e7002d3c3c66b480cb66d65e3481f8f7f0c0edfffd89b8cc53934b8ee1b"
+    },
+    "0x28B54e898Edd3E758B9b3CF202b4be2E6a50e9a5": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x16bcefc8435c8422c6a34ed7cf44959019538c84852d9be9db9f386f3b16917c26d0511abe9224f8ebcab7d1729151a882b78f8655f02ade3705fcedcc92ec201c"
+    },
+    "0xa2F0448f346cE50B9029506c88Dfa58d07bAF880": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xcbce36224437998128d1de4d9119936f853d6975c0d88c69b3d8c2ec88bd002d0530394492ce80ad54619ff2bc2235f56c299503230163aaebd0e4fe8491148f1b"
+    },
+    "0xD5458a3506f21c583D7728E548f7C3f2fEc49663": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xcc770b245b2674267e99e6b7f907ecbc050ac7f5bdfb67b1101f44fe47ef1cc169cb11bef7e54c635071edc54e7c8c005f2d6e681a18100ca1cd50b0653024021c"
+    },
+    "0x40e14b90e66b1D694F425579118D0Dc8EF1Dbc91": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x2453c9f50f441d8dcb0d375eb4c2696f3b9bcf5ce00e621c702e046c6509765223d760ced359976e504664cd7b7e11ff0fc048cf7beeaa67ecb8ca61222724d51c"
+    },
+    "0xE8952F68E485188C3acF22d0504e7E3a18e288e1": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x2f1ba2e91869342dd3954097995eac15cc45aca05e507ffb175fe5798a3268966621c5541ee200d9ec8c2ba178699494e8f105a3a686dba81ef09d86156ddf441c"
+    },
+    "0xb0d27D60E77abb8284c8F8543812BD165f4e6D24": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0xeee55b69b7cb4ba9d71d97079a4f2074fa2c99f750e41de2478a22708ed98bf41691398181dfe7e9557444f03a8d33b671f0e756f7fc8e5e0da88527b601f2a21b"
+    },
+    "0x80da2aEC4A1d173cfA4Eb62608Ed1bc55773e7fC": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x328d2f0e7c1cdad44f1dca510ab881a3d99e4da4b6cd291aa07cf3deeef24b617cbc8ea59238adb9d81787f9204587915907af9da4dc33c12c302f33895e7f7f1c"
+    },
+    "0x8a08e3Ce6CED24d376a13C544E45d4DDa02FaFEA": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xd9738d5cd41f011e33b05f406658411073e0f42805141d1f5f0c9a4604287d7e57afd3e8352b0f0d6f5be6d414f133343f5a4ab75939a08889e94e3937f238ec1c"
+    },
+    "0xf6d1B70718596F14870079dCc7da881C753563F5": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x5005c95b62546306d7926a943f33968c833de0124f2073001db86712a5f276a30c41f8ea9b8a99cfee47c4ec735ae12f678a74f72d3eb2a00b48524893fc82ab1c"
+    },
+    "0xbe2B3D2C4901Ffe2504B8cF1a3cf16C18F842676": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x7d8a075ce91c3b422e3ef23210aa4012a21b1278258b39f7fc4689fb736f243f3eedd2b02fe0a58cac51b22e0d27c677d6719523f8cc63f1baadef6ed7881b4f1c"
+    },
+    "0x2B26064C9CCB00EdCD70c40Fb1EeC54ea70bc9E0": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x477ee1b5e8edc06d6785bdb373fa572b5cd431481c4f74b5671a795690395d647f721d4629695dbfe675e4edb3f26d9355b7247f986584262d08c03a1549243d1b"
+    },
+    "0x59796Ffe66cD96ab5eCcE919Fbd530fF5686c2fB": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x29a6aaba2647868667a159bcc67b016fa3079cb8517ff4bf1b7f55b64688826a3ca98e7bb5a5b2e5caa518d37d1ec807748007301c639e994800baf5bfe411e31b"
+    },
+    "0xa5c3A513645A9a00cB561fED40438E9DFE0D6a69": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x70a51537fb820c9cc646c9dc5ea75497296bd5940f0ef8f4550c566840610a5f50f622034c58f1d63b7b89eccf76adcc328f2f6305b9375fec57e324bf3118f81b"
+    },
+    "0xD08c95c5D57Af0a03337Cca2D9c123Bd32a0E182": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x8cd59155e6a456fd83c8a9e4418106d6606b04773ccb0c484e41e58acf3380410cd83b8b7c752953ccd99e998c22795b2a1f89ca7d7b971d40450df7a6e86aab1b"
+    },
+    "0x2261874Bbe122B61A6dA07DB4be05096EfCE3662": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x18c11c4d4394b28cbb6fca9b57ca32ce315f2726f24c1cee4165eb7bbce590a242bc87f96f76646852bfc9e355ff19bedd7251dac80599505e6e392339b9885e1b"
+    },
+    "0xEc44d93329a3c999F9F19cB96D663fa3B2dA0A87": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x54ddf503b3c251cc01fb40048c0d2f323ca2faefbb00176d550d25923d6fe7d2088d7020b21edecdd9978faf14110b471c26fa0c3ce95095a4d4f9eb43c724541b"
+    },
+    "0x3131c4dbce3747A0BCd91382c998aeee84db505A": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x54dbb8511db3c3fc9fc89ad3a6d042efbbc782df1cb518a72c6dc76bd748366f2fd8bb958fd4d93a0ff577263cdd162707d44a00b8bd0bc79b2c3a37fcebe8b51c"
+    },
+    "0x7885FCB888777f373C325bF9D90FfE4aC5db41BC": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x48254f0a2a7d5c523946d8b858b2c4f513923335faa29bda1f4367400a425f630e9260ab59a2d842e6ec9aedbafd2b89123248bd70dc45973debc69fad004e891c"
+    },
+    "0x684f49bc1e04339d84F2370f14Dc1491A3B4F113": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x8be818c76f8b2b3e3783aa9cfa48039d380d5882fd1b3df1125eb2147c08f12b7c527750190ff7dd3ad28eafbaa4b66e61714b92d64f48576461c77187b94a691c"
+    },
+    "0xf71555b68ae1025c8BA96E1bc88eA77f09F11c13": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xffea5bb9fb7f1c6afb4d437f4be7012ef8575443bd03f7c59ed76288fa872cd643e923219a6bb9d04496be612806c6c09a449de97b8755fc3c24801bd99594f01b"
+    },
+    "0x95880f2E70203f759168665Feb6948E81Fe5dF77": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xf01246dccf38957dc2af0758277ec2b03ba040d45aa951ef0e570beef6f03ca56fd6bd425e6c4c9f5f8337609ccc706362afef087b4d02fcc6d4686e4da2a2331b"
+    },
+    "0xE8E486dd3F14AD6927e16Ec50133e6421E47f9bE": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x1e09f6aa3c7a8f6900e422c488649b195302eae40aab257e652812dcfd4cd73d47ae64573d007afe86e9b89dc1e592a4320914a5a3c3816154891124df4fc2421c"
+    },
+    "0x1484E7EF9b04F1B6AD2Ac69B654Cd3C87172a481": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xe69b137c848a1374920cf7e49139be4a67e7569c6e2f7427e9bffc139bd65ea3790c8c84fcc1f76b50e4ff6da8b78868d5ba1bd30845b91a68136624342c8a711b"
+    },
+    "0x1Ca049Ccd785d1400944070c665B3c3132684373": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xf5adb297bfb6fc42066441a849b4a823f2ec9eff74bb91529d6a73ad1ae4ef123a5df0197d8c05ed54695ad034ab06cee69576b1b5179fcafd140444740f21af1b"
+    },
+    "0x19178EeD0c4cb9b48d892a67F80Cb074ec8FE356": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x394369068f21e673b6b2a6370ca11d5e153c7944abe1a871a4e9e6d1834145387742c578d79145c1296b6a5268aef99bfd1e1d6cb3068aa501402574cba0ebf01b"
+    },
+    "0xc334c13FF1150ca20e41BC40852af03035Cf49BD": {
+        "amountAllowed": 2,
+        "nonce": 691,
+        "signature": "0x05128ac40728f0bf1ca69f5090e34816cbef51ab5387cf7493288ae99aa5b3086b2252f435242ac6e34b1dbfc46f26940fee97484be5aa45df1e264e9e60b3541c"
+    },
+    "0xd794CCD4A5cB914aF8b8aeb6D49B9c262F934c8e": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xa94f0a73b64a8e2dbd19201ede5a48dce1ac81697a059c6bf3d67e9bf36b1bf5678ebed9490b2ff6646b7186eb352612fee3d3cd043ddc1c31052e95495ebebb1b"
+    },
+    "0x36A16a157cA7215aa0E24352e90D21EC0aD24492": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x0dd4fe83ceed0984faafa8f191842777166cc60545be1541b8552d05ac7fe4762f32eac4d22161f8ff85619a7e63fcd253dfadf476bcd47216426b3db16f3aa11c"
+    },
+    "0x5bF2902fDE09aaC88755D3401403B1D7818c9C63": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x5ee140812599769ad5e78db61acfe3c7daddb72228c5b1c55665d554e2a20bf26a8b468adb366221fac5f0709d64330434beb1df773d81d1675fd691a4be52cc1b"
+    },
+    "0x88BAdE0CE190b854AA4754Fa474736d8e01DBDC3": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x71f697e6f49af11bb38a1b1962b7093ca65532438b985fd5ef2489eb11d932f23f54ec6c0ee42aca69e31426b4412ccb21a2aa43cb0b2491f8833959a4c8ac8b1c"
+    },
+    "0x111a84c3B06548452E365aB1Efc40d36D9dF00CA": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x14a2eab74f87b260d8ab625a2c670cca7b311ec220e504f66d4a6234c2addc924188da31ff8af6722a8843c693280b6d05cf5c28d6679846c9541d95d37415f21b"
+    },
+    "0xa6b4d0Ec0189106906ed9aAfe9a1CF9a08e059Bc": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xfeb0a742c452b64b63bf58e0071ae31c08211bb1e75aa32ab42bf2dd11ed71fe387cfe23b1f85048b277fb92f0e95220c96b508cd1eb50f0c6fb8533caa75f501b"
+    },
+    "0x7f368c261873FA8B874eD27E5e39C11DFBe25eff": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x8d242c20143f3a5ddadabd1bfadd0db7878172da89b4f145c4f7035493a7cba565f8a09befdd749f7c5181d2ccaf8ed792908414ad0a758b75abfa13001b4a0b1c"
+    },
+    "0x228f30b941A4993e6DF7Cb9a87eFb31B33Bd8231": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x3cc3bf47168ce7f14ede1d2943e0ac13dfb77e54f95b10ff1c81f053409cd43a72b6823552f542d8b396e43821a7baebae5338cbf2807520de7eed095991d8ce1c"
+    },
+    "0xF97f757Ed3Aa1eF705F2957698A2b3B2CF2dcEBb": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x28a45522f6f7aeebc13b0befda192384e712b8d752623db6653e7f1128790a700b8cb530375c4afa6dad4c3707f49fc91869de57332f5f93f9af470d16953e751c"
+    },
+    "0x388539895a29df3459753818A3fc9df3691D2dbC": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x033bca897cfa0effe853eaefece6166a2a05553d75233a9a5d49186eab8559d0000f09476c1484137a966eac7b717ac78ed0a3517b2764dc6771d614ac067dbd1c"
+    },
+    "0x7CA6014dAB07be7A2EDe74B984232cFE9eF2DDBf": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xb455c5515f51932179244d945c9bc4bc55b9bfb8d6d8eecb153b254931f7c276267d26dce2bb825866f7c1c36d49796ea1e892208ac846130f5969c0f95b829f1c"
+    },
+    "0xad7b75F708ad84247a5E98bcAA5259EFefa7aa82": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xf634a0bda795f8a852e38d94e18b6f097c546e638843d9af8b19f8471134cca82590d53c749c930d6b2bd4367913ffc07776ff9dfc0234e535710ad6d70d690f1c"
+    },
+    "0x558E3F054dcB206DE1bB5F19C31713692dDeEe93": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xd519489df51800a3d1748faae81754237b58e8bb68a4cfcdae7a8b4bfb82709d076c0a6523d6f899ba8f0d39209bd23effd31ce91515ade0cfce5a2f62f21ae21b"
+    },
+    "0x2a660286f42b2eC576FEc29aFd46Bd6103Cdd2da": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xd2bdf57026c671a7245ed6848c5f9dea6b44264205384b10366139b74efdc43f4dd0943e7809b6dac4a1ebbc59796c0f10041baaeeb24f07699a3d9477f7fbbf1b"
+    },
+    "0x6a7a6dD8a14743A5Ed737EE564b3691D0512f641": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x6930d9076532ab124eb475ae64720916b2bd95e868256995ec2aad77444e73983a6a8413d028592f0888e144cba6a17586582793fd09d83eae49c1e4b308016a1b"
+    },
+    "0x1F2B535d1549fc65335BBE7072D9A1863587C4A3": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x1d707fface7338b8a235ac01c49e2e75af927e044c31eccbec4a799d335157d82bcb0c862056ea82732b28153c4e6f99807db939748fad421db6a74b6e5755581c"
+    },
+    "0x4F3c114735101EF8Edd81760A05bf269d2F04889": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x0c0d9828facf4386da1366468be243ba34f4897b71353d79cc0bb3aaac98c12f189ac4ef69383cad54360aac580fb31fce2f016fd0c2e0d49c4b1a7e81eb62f11c"
+    },
+    "0x91Bec63f8297E89390a0350662C9E3b1A60767e5": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x83585cd92651833e0d445ad5871d679f44d6efbcbfb9aa41b5c86daa5906dd1340590ddc69a821c7243cdc936c002e4a0520d6f2ac7dbe1b5431927dfa14b2b51c"
+    },
+    "0x4243d34e06258a728032FcacC82374824615470f": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xd24ce4af2e68a1f6d7b5b1ef30080edaed9e34b6412a4477073849581d47569e6c0833e29c0eb051ee553c1ca3157c41c2b5d1f7341953df8dfcd785ea7c69531c"
+    },
+    "0x698587559F0392b8d1772a64fc3c60c34d22f254": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xd400d70b188e786873f73e298d84d5bbd1302ec280a7f9f5f4dce9a70fe2066f1d286adef8dd5af77e2be544cb1d67233404309fd31415ea6caf7a1cebfce4ac1c"
+    },
+    "0x41fbAC2e9D02e53868697807759D7E9BDb671b4c": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xa9e34dbe4c8e1f5e04b8e2ebc7a478ff66ff4159de86ca98ef74253f2c4189dc75fbc377f9b23e3e7d7dad1f76928b7c7e2ce092bb323118561b3e0444ddc6bd1c"
+    },
+    "0xe93F6dCb9c130cbF9188434CAaD7B01702Cb4b3E": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xe009ec8567d36d47736e49023a1882c7c55868db06780b11b298bc563ef8e4b93c63534a8f1fa41b3859541d746150c715355ca3db5af02d43489037d46c9f4f1b"
+    },
+    "0xfbBb48Fba2cDfF30e52FA0F76e7B1b2358a3e779": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x5d4f662ad658b0a635f8a57fe4f8bf55c154b5156e312c58e2931d600b3b0c3a0f3657ddfcfdf8c96887be5f68d69e8bbb5ec66579ab65d14760df809b9a7a731c"
+    },
+    "0xafd46f5B6B58F41399E08aa6fF784ac16d1a0FFC": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x86c466f13743ec065ea78a892677bd719be87b062082097f2b73c5aa1f751fa0270a3c813971289ad81731c5c849e822785d2f78443c7045a79cf129309dcaea1b"
+    },
+    "0x7F6F9B6F236d2274B7C58BbBC28d10B2f71B0342": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x6640e8ef963d235b8894500854b85255018c546232c7a9aeaa3e74927990458a0840b647dd386720c7e86e8df8826419802625580476447058dc8da687d140dd1c"
+    },
+    "0x9308613d99A2F1077D8150Dd40B657F6b97A8dA6": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x55b3480161e53fbad3de19c4a2fbd298b167ce9ced27ffdba04d4149adb367746b14c89f253f7573ff1b6da98e5de2f3ee0aa5e4efabe9ab334f92d7eabfd6561c"
+    },
+    "0x3aA8Ac0E6C1Fb9CBb733565De16cdC5a676bCb04": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x65b074e98ebf3c5c05bf35be1917a7a4c611fcd44ad74c450dc69ecf41e9919539062b0ad981dee9adac8743b109f665381d379adf10e5b67dd1fdfe3c6c2fd71c"
+    },
+    "0x5f8A1a7e444aeE099e1a562568F537fb1680292a": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xa35aebb6e042394398989a73202e4ac8f2d1ef3216a33091daaae4ebb087eed34013a4b338b9115843dbf564643296df8e071f209c10a387519a0cd5e6efcdeb1c"
+    },
+    "0x6f43c6b2B711dc15e4eD466d51799F93A8Fe1f45": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xfef19abaa64378c295c2a96c922bd08cc458ffa00983d14ab38b5106ebe27b1451b305c9348ee2d0d0c093db22eb74b6cc1ff90d1c9a592cc7148f8f2dbb9b5f1c"
+    },
+    "0x4d9c1823ea49c3eC35052054AC757EaCf0dcdb1c": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x543dfdffb18c4396df5134156222ab7614a28e3f2208a146b48610381d6a49fe0e9d84a783e8a07d60e8fa5db70b91bdbbfa7b794256cae15bfa8bf7866be0bf1c"
+    },
+    "0x622554576a393d70756681065529289a570eCD98": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xcc8a0547485b8c7109a1258df82a1536b16fe0c70b4b22aa88938ab0f149cee639e04ff17819e623055ccd7f7fdfaec610eca9ed2bbd0321150ecd89fe2a81971c"
+    },
+    "0xe32A4c7a2a5EfC52a79ccE5128189A5763589225": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x8312d2e4fca2241cc0bdeee248320df631dc5e2d0b334e697194ca9f7a3d02c279cba29ce28b24cb41bb3f6eb9c705c40fb2757cff45bd283c3d1d06110564f71c"
+    },
+    "0x3Ddb8ce5959896C8aBFA14Da5E1a63bC61369684": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xc0d68fba62d0ebf54988f36118c1bee74aaff0b78478101cff89f43af6c74a692a0ffc43ddd2cd3b31197fdf49810cddb6cd98631c7823a818601805370a114f1b"
+    },
+    "0xa8c0c7927453e37093b18245971d5944fbBE0682": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x9aa9311205348b64bc720dae73bece591cda53cdcf15b03ad6c407269f4b2a631f05c32cf98992b7990360178a39c7db1740661eefbbbd4434d1a6104ad879981c"
+    },
+    "0xb53cdBD712fa8Fd7bABF1f9cD74830ab30afE932": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x6840148f5942e4ed8f5e007c009a834c917606d75508b71948589b47a43ce95f1982078b1fed1fcd9718ce0ae06fa690bb4066b70658b861e74c385b1dcd7d2f1b"
+    },
+    "0x03040c5bc2A6341037f1fb81310d87d9c990780D": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xc3671dec4959951d5a460af09e9e7f8af516bc30e7d5bf71f3c70ff52de3aeb22b1994b03ddced4e720d445a7d983b4145b451fef221744c22a14d8e657dd3091c"
+    },
+    "0xCC2263eaC1222BD29f96e55295b67bCb20612bEd": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xfb61c283e80a0d10b53b65376beb12ac5dc2dd3aa0e48f21eba54942b3ade71656541df39654aa6c219c4e48e2a4aa0d23e442bfb91b611141b0a4fa50406d731b"
+    },
+    "0xd5003D102076335AD328Cf4318547c2D7c483c46": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x82d638791bed80f84c6a99fa1c07768261dcb3bc91be2689ab1b79e5bd7371c45d1cd6f0648b13c7c56f155353a703224928505c02bc1d072ee77834b7f0934f1b"
+    },
+    "0x0663F232f6b58f4caE51a94232645a3f12CacC8b": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x93abc8395d6498e9b8ed8decd1396390f9896d4244bc95f46cd6b5d92150a76b3b642b282f60d4165e9bffa970e8d65ac88d607c3c31a29f729e1ed67d0855191c"
+    },
+    "0xEa724E1875639Bb2b05EeFC00AEdB80361B24AAF": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x4f9e3572bb9f6cb4c8d67b91ca497c1c8c535ea149c0272c11bf50b5c582d60830e66f0fcffaac2b0a871dbdb11275380a03d991b7a8062cafd6934cb748a7d01b"
+    },
+    "0x41F869645b23c75847b25324236bF47C396ceAE9": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x4cc258db87eca9231f8a1d7fdc986b17e44d53534b613e552ea7c85fda8b862a0acdebd1eab5996a4b2d5e9ebb30a25eb31eb1f17a1b96e7323f54b8c87318e91c"
+    },
+    "0xE36067a4c51ff6Cb7Fb6F97D1931bb27a468960B": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x88ad5a2a7ad67e1f2f0d0cd187fb997815d835fdee38087d4fc3a9782db642e5442a4478a798e87110f57659053d8ba6dc296374bd54c5f261663d528cbdd2311c"
+    },
+    "0x1aF528aeF85E27270051A880446155A6D9555ed3": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x4eaf18cf15516a9eddc9c73382d0182a96f45c644ebfc21f32345580c286f29f1422da8698d717000bd2db0c3e50cf77cf5cbc1ac42897ad1c3459be66e6ad061c"
+    },
+    "0xD8e614e5382db91627B8Cd94b092C61bE77C1C2C": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x4423976432c6718dea0d76fe26449227d125b99a452114f2f341766bf22526c81bf55d608060bb9ee0967aaccabca6e66aeab95b7730fd1abc4e58ff200657ed1c"
+    },
+    "0xd0010A89E546bebc5e17b7FC04e352F2A8C6413e": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x04fa0a1935b8955de245f439a9193337cf2f216668a650dce583f16ef2ce3bf975fd4f3bbbc80ef9aff73fe058a88f07690b14da3190323f791c8f5b3d490d4f1c"
+    },
+    "0xF89Fc7C27F885185AFA09A38B29DAa1BdAF32d4A": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x78b4c2bd120c8440af02270271d17e9320fe613e5264c3a6fe24472e463dded9702fb4cb3e11bafa8fc3fa9463ba0bc67f1971aa65539c799ab197e62a71dafc1b"
+    },
+    "0x65fba76202D8FDcc28EdbE9bc3141089fB133c05": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x2f42b72be9695d7f2ec1dceccac451ed16aa217cf42f0f5cfec3981b611f0d3a52e931facf517ba3cbb1bb98d9bfdb28c7009e536c7cbe27517166d35ff486f51b"
+    },
+    "0xE83deD34AdbE4B52B1611dCA0ea4FCF23F3eE01f": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x1c784466332534e56c3e29357a21255c65b9e3fcfb3ac8e0061575cdd2c414de0c6d668372763e05f386cbc2e20b077a0197ceaef295bf212d5564305735d0571c"
+    },
+    "0xd455712e43582134F101a0C686d26548B5438A3b": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x657a12e2d444156752c033b7812aec27c2425ac140d3adb8e0c5a23fefcd630e09c3df9cd46deb18107f177c7cf7e8b9d67df7888b4bdeb06ecd60d77c40104f1c"
+    },
+    "0x9c035924d172A5Ba3ef6E544af9DDA28A47508c4": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xfe2f150ed404ec0dce6642ffee323e9dc318ae258c0f6f663e1b454e8a5cb28e25c6731d571243989d2e4f9f13fdd54eb88e9232849303333864d717825a7ed61c"
+    },
+    "0x246f7e8f695ac26eebc4be0b94b248331037b4df": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xadd7b9811289eface45579b10771c37229db82f5cde5d656356fdbb5cba9a8d267c6c7d26f39065f5275408d521176649ecaacd8efc38ad20b7d4471e4b1dd181b"
+    },
+    "0x247c6efc48dccde4ed92bd11b6ae6c0ddf05b811": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x1917ea9e627febff91010800a28d2f213c576207bd254e62f5c10e47dcff53487dab9d27aad76bc4f95b91ea62fb9758f44c8623b690e16fa876ab8e230bb9201b"
+    },
+    "0x4bf99cd1ad81b11abea6c660194d71e1cabd5993": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x090f839af38924e0bd402c1b60e6edb2a59ff3c758d18e0767ffdcab12c9de0a23ee6af7786c7ec26befd60178f604e609bad26b69281ec6f5620ce0f8c16a481c"
+    },
+    "0xd11ea4ae23f33e26df511407fafe8c7687f4b587": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x8fd2ef244ce0920eafc09dbfa0d7b82be5626d0585ad68de68cd4cbf5f8847ff1c570da1eb6a7d362ac42c2fe5ae95be49664482ae526d6bb038c5bf068ede8a1b"
+    },
+    "0xed98b26a580facceabe6b5d0bcf6ba3992c34aff": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xe6cf79fc8f7839e71e327e7dfd3e098ce8f1b7d35ff7a00c1083c8abc2a8ab0b0540eccf7ee3ad96a85674afb8cd177980a765401d1c007eb3b54e4fbc9ff8321c"
+    },
+    "0x117742c41c9d5b11a20f5fadc5027b06b0945bff": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0x8c3808a1613287ecadf2a61f88f49e51425dc6b6baa14336330ee0e9157bf9684408ef4ca85fec46dce7c0a4a107682021b865cb595072bb944d08b496e597bc1c"
+    }
+}
