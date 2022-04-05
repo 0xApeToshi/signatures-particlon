@@ -1,4 +1,14 @@
 {
+    "0x9B62DF1d49B9Cc63fEDc468072cfa8362C5E9278": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xc1c479fb4d890f0766cd4c2b99f40a3992a717a1219c987ca8af3943481adc2f40b59948468a4bde37ea42bedd8e055d2d4982ce240e8e0413676519dbb8f5d41b"
+    },
+    "0x8edB258c79BA982727cb25B762C4e7b984022b3a": {
+        "amountAllowed": 100,
+        "nonce": 691,
+        "signature": "0xa28f038f1c868b6241d9ea150fb478ab944eea3d6518303eb3b59a47ca4e58ea2a149dd24f1032fde8a651a5e228abd4859fbd947531a8c6c513f822174eb41a1b"
+    },
     "0xEbc8F85c8402d15F0e3a8c878e8E375dE5685d45": {
         "amountAllowed": 1,
         "nonce": 691,
