@@ -1,4 +1,9 @@
 {
+    "0x6A79A97f45a7088964FFc4DAe2A90285C51AdD04": {
+        "amountAllowed": 1,
+        "nonce": 691,
+        "signature": "0xe7cd34a83b34f12f009d742e8861a803072726217079d43db9ee449b053134b61d004d4dd63d6189b0c5dfd03006326879bcfe1b8d78f5f4326015a6dc2f32921c"
+    },
     "0x9B62DF1d49B9Cc63fEDc468072cfa8362C5E9278": {
         "amountAllowed": 1,
         "nonce": 691,
