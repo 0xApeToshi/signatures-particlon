@@ -1,4 +1,9 @@
 {
+    "0x147B1ba85C60d53334f9c2c6Ab65638F17704457": {
+        "amountAllowed": 3,
+        "nonce": 691,
+        "signature": "0x8bc2a4f4cc39739067f6a59a690827ffd74e91bdd74d8589ce440130fe19e52827521be8d02632f302832215d4be79ca2f3635ebd70220b0b30c7a068b9d00fd1c"
+    },
     "0x6A79A97f45a7088964FFc4DAe2A90285C51AdD04": {
         "amountAllowed": 1,
         "nonce": 691,
@@ -128,11 +133,6 @@
         "amountAllowed": 2,
         "nonce": 691,
         "signature": "0x106e9e9c158675ed58b592776e70a5167223eab8926becd1aa35a2f3d8e2fe5b2ea17e634094a2f2affa05057126e37ea5f2320bc2f183d9d82da3ec00c467121c"
-    },
-    "0x147B1ba85C60d53334f9c2c6Ab65638F17704457": {
-        "amountAllowed": 1,
-        "nonce": 691,
-        "signature": "0x3e1b79e05f5795b9e54cef0f0af7d900a5ffe61bcc1ca2279cb46e36a9c3bdb5060c892a2e15f2fbcd518b91f4e537e61cd89795f7621eb1f8be6ed96b9b504f1c"
     },
     "0x9b01A6293353CB4Ff6e0C257fBc24C61CB678D6E": {
         "amountAllowed": 1,
